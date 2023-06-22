@@ -1,0 +1,11 @@
+﻿ProductId,Product,CategoryId,ListPrice,ProductImage
+1,Apples,1,0.75,http://classresources.blob.core.windows.net/images/Apples.png
+2,Bananas,1,0.95,http://classresources.blob.core.windows.net/images/Bananas.png
+3,Oranges,1,1.25,http://classresources.blob.core.windows.net/images/Oranges.png
+4,Carrots,2,0.95,http://classresources.blob.core.windows.net/images/Carrots.png
+5,Cucumbers,2,2.25,http://classresources.blob.core.windows.net/images/Cucumbers.png
+6,Potatoes,2,1.25,http://classresources.blob.core.windows.net/images/Potatoes.png
+7,Tomatoes,2,1.75,http://classresources.blob.core.windows.net/images/Tomatoes.png
+8,Milk,3,2.5,http://classresources.blob.core.windows.net/images/Milk.png
+9,Butter,3,2.25,http://classresources.blob.core.windows.net/images/Butter.png
+10,Cheese,3,3.75,http://classresources.blob.core.windows.net/images/Cheese.png
