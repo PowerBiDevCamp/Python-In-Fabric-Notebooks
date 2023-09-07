@@ -1,4 +1,4 @@
-﻿ProductId,Product,CategoryId,ListPrice
+﻿ProductId,Product,Category,ListPrice
 1,Apples,Fruits,0.75
 2,Bananas,Fruits,0.95
 3,Oranges,Fruits,1.25
