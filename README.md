@@ -1,2 +1,2 @@
-# Python-In-Fabric-Notebooks
-Sample source code and data for Python Demos from Power BI Dev Camp
+# Python In Fabric Notebooks
+This repository contains Sample Python source code and data for demonstrations used in from Power BI Dev Camp.
